@@ -1,16 +1,104 @@
-## Hi there 👋
+# Ram 'AI' Kumar &nbsp;·&nbsp; CISO · Founder · Builder
 
-<!--
-**ram-ai-kumar/ram-ai-kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> _AI isn't something I adopted — it's literally my middle name._
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧭 Who I Am
+
+30-year technology executive who builds **secure, AI-native platforms** from zero to production — and keeps them safe, compliant, and running at scale.
+
+- 🔐 **Security-first by design** — Zero-Trust architecture, HIPAA · GDPR · ISO 27001 · DPDPA · SOC 2
+- 🤖 **AI-native builder** — Agentic pipelines, RAG, private LLM inference, MLOps governance
+- 🏗️ **Founder** — Building Recyclr, Secure-first AI-driven circular economy marketplace
+- 📜 **CISSP Candidate** — ISC2 #3370996 · Target April 2026
+- ⚡ **Ex-Cisco** — Zero-Trust AI NaaS Platform · 5M+ global networks · Fortune 500
+
+---
+
+## 🚀 Core Impact
+
+| Metric                  | Achievement                         |
+| ----------------------- | ----------------------------------- |
+| 🏢 SaaS platforms built | 7 from zero → $1M+ ARR              |
+| 🛡️ Incident reduction   | 80% via Zero-Trust + IR programme   |
+| 💰 OpEx saved           | $120K+/yr via private LLM strategy  |
+| ⚡ Search performance   | Sub-500ms on billions of vectors    |
+| 👥 Teams scaled         | 0 → 150+ engineers                  |
+| 🚀 MVP delivery         | Under 4 hours                       |
+| 📋 Compliance delivered | ISO 27001 · SOC 2 · PCI-DSS · HIPAA |
+
+---
+
+## 🔑 Pinned Open Source Work
+
+### 🧠 [langchain_video_transcription](https://github.com/ram-ai-kumar/langchain_video_transcription)
+
+Privacy-safe, multi-modal agentic AI pipeline — zero 3rd-party data exposure by design. Whisper + Tesseract + LangChain + Ollama → publication-ready PDF. Private inference model validated in production: **$120K+ annual OpEx savings, 80% cost reduction**.
+`Python` `LangChain` `Ollama` `Whisper` `Tesseract` `Pandoc/XeLaTeX`
+
+### 🔍 [ddoc_search](https://github.com/ram-ai-kumar/ddoc_search)
+
+Zero-Trust, multi-tenant distributed document search engine. Tenant isolation at API boundary · Redis rate limiting · Kafka/Karafka async indexing · Weaviate vector search (sub-500ms) · circuit breaker fallback · Kamal zero-downtime deployments. Mirrors production patterns proven at **5M+ TPM**.
+`Rails 8` `Weaviate` `Kafka` `Redis` `Sidekiq` `Docker`
+
+### 🕷️ [web_scraping_vulnerability](https://github.com/ram-ai-kumar/web_scraping_vulnerability)
+
+Security research — real-world web scraping attack vectors and defensive countermeasures. White-hat demonstration of threat surfaces in production SaaS environments.
+
+---
+
+## 🛡️ Security Philosophy
+
+````
+Zero-Trust         → Never verify once. Verify always.
+Zero-Standing      → No standing privileges. JIT. Audited. Expired.
+Zero-Vulnerability → Threat model first. Code second.
+Zero-Secret        → No hardcoded credentials. Vault-rotated. Always.
+Zero-Exposure      → Private inference. No 3rd-party data leakage.
+Zero-Touch         → Automated pipelines. No human in the deployment path.
+Zero-Downtime      → Blue-green. Always.
+Zero-Dependency    → No supply chain surprises. Audited. Pinned. Scanned.
+Zero-Drift         → Infrastructure as code. Config is truth. Always.
+Zero-Admin         → No standing admin access. JIT. Audited. Expired.
+````
+
+---
+
+## 🧰 Technology Stack
+
+**Security & Compliance**
+`Zero-Trust Architecture` `HIPAA` `GDPR` `ISO 27001` `DPDPA` `SOC 2` `PCI-DSS` `VAPT` `SIEM` `WAF` `mTLS`
+
+**AI & ML**
+`LangChain` `Ollama` `RAG` `Weaviate` `Whisper` `Hugging Face` `OpenAI` `Agentic Pipelines` `MLOps`
+
+**Languages**
+`Ruby` `Python` `Go` `Rust` `TypeScript` `JavaScript` `Dart`
+
+**Platforms & Infrastructure**
+`Rails 8` `React` `Flutter` `Kafka` `Redis` `PostgreSQL` `MongoDB` `Kubernetes` `Docker` `AWS` `GCP` `Azure` `Terraform` `Ansible`
+
+**Observability**
+`Prometheus` `Grafana` `Datadog` `ELK Stack` `Sentry` `OpenTelemetry`
+
+---
+
+## 🌱 Currently Building
+
+**Recyclr** — Secure-first AI-driven circular economy marketplace.
+Peer-to-peer verified recycling transactions generating carbon credits, CSR compliance, and CBAM-ready green credentials. Zero-Trust, data-sovereign architecture. DPDPA-compliant from day one.
+
+---
+
+## 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ram--ai--kumar-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/ram-ai-kumar)
+[![Email](https://img.shields.io/badge/Email-ram@recyclr.in-D14836?style=flat&logo=gmail)](mailto:ram@recyclr.in)
+[![ISC2](https://img.shields.io/badge/ISC2-CISSP%20Candidate%20%233370996-005A8E?style=flat)](https://www.isc2.org)
+[![Recyclr](https://img.shields.io/badge/Startup-Recyclr.in-2E7D32?style=flat)](https://recyclr.in)
+
+---
+
+*"Security is not a feature. It's the foundation."*
+
