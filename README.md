@@ -32,17 +32,17 @@
 
 ## 🔑 Pinned Open Source Work
 
-### 🧠 [langchain_video_transcription](https://github.com/ram-ai-kumar/langchain_video_transcription)
+### 🧠 [AI-Driven Video to Learning Book PDF](https://github.com/ram-ai-kumar/langchain_video_transcription)
 
 Privacy-safe, multi-modal agentic AI pipeline — zero 3rd-party data exposure by design. Whisper + Tesseract + LangChain + Ollama → publication-ready PDF. Private inference model validated in production: **$120K+ annual OpEx savings, 80% cost reduction**.
 `Python` `LangChain` `Ollama` `Whisper` `Tesseract` `Pandoc/XeLaTeX`
 
-### 🔍 [ddoc_search](https://github.com/ram-ai-kumar/ddoc_search)
+### 📡 [Zero-Trust Multi-Tenant Distributed Document Search Engine](https://github.com/ram-ai-kumar/ddoc_search)
 
 Zero-Trust, multi-tenant distributed document search engine. Tenant isolation at API boundary · Redis rate limiting · Kafka/Karafka async indexing · Weaviate vector search (sub-500ms) · circuit breaker fallback · Kamal zero-downtime deployments. Mirrors production patterns proven at **5M+ TPM**.
 `Rails 8` `Weaviate` `Kafka` `Redis` `Sidekiq` `Docker`
 
-### 🕷️ [web_scraping_vulnerability](https://github.com/ram-ai-kumar/web_scraping_vulnerability)
+### 🕷️ [Web Scraping Vulnerability](https://github.com/ram-ai-kumar/web_scraping_vulnerability)
 
 Security research — real-world web scraping attack vectors and defensive countermeasures. White-hat demonstration of threat surfaces in production SaaS environments.
 
