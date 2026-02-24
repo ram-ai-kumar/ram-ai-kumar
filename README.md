@@ -95,7 +95,7 @@ Peer-to-peer verified recycling transactions generating carbon credits, CSR comp
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ram--ai--kumar-5B9BD5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ram-ai-kumar)
 [![Email](https://img.shields.io/badge/Email-ram@recyclr.in-E8823A?style=flat&logo=gmail&logoColor=white)](mailto:ram@recyclr.in)
-[![ISC2](https://img.shields.io/badge/ISC2-CISSP%20Candidate%20%233370996-00828F?style=flat&logoColor=white)](https://www.isc2.org)
+[![ISC2 CISSP](https://img.shields.io/badge/ISC2-CISSP%20Candidate%20%233370996-00828F?style=flat&logoColor=white)](https://www.credly.com/badges/862e6f18-3ba0-4a05-89ce-e12a0cb71288)
 ![Recyclr](https://img.shields.io/badge/Founder-Recyclr.in-4E9A51?style=flat&logoColor=white)
 
 ---
