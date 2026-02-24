@@ -93,10 +93,10 @@ Peer-to-peer verified recycling transactions generating carbon credits, CSR comp
 
 ## 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ram--ai--kumar-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/ram-ai-kumar)
-[![Email](https://img.shields.io/badge/Email-ram@recyclr.in-D14836?style=flat&logo=gmail)](mailto:ram@recyclr.in)
-[![ISC2](https://img.shields.io/badge/ISC2-CISSP%20Candidate%20%233370996-005A8E?style=flat)](https://www.isc2.org)
-[![Recyclr](https://img.shields.io/badge/Startup-Recyclr.in-2E7D32?style=flat)](https://recyclr.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ram--ai--kumar-5B9BD5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ram-ai-kumar)
+[![Email](https://img.shields.io/badge/Email-ram@recyclr.in-E8823A?style=flat&logo=gmail&logoColor=white)](mailto:ram@recyclr.in)
+[![ISC2](https://img.shields.io/badge/ISC2-CISSP%20Candidate%20%233370996-00828F?style=flat&logoColor=white)](https://www.isc2.org)
+![Recyclr](https://img.shields.io/badge/Founder-Recyclr.in-4E9A51?style=flat&logoColor=white)
 
 ---
 
