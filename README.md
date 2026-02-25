@@ -100,7 +100,6 @@ Peer-to-peer verified recycling transactions generating carbon credits, CSR comp
 
 ---
 
-![Gemini_Generated_Image_qd6zvuqd6zvuqd6z](https://github.com/user-attachments/assets/b3661c1a-246e-4d8c-a4d2-2f4368ddc516)
-
 _"Security is not a feature. It's the foundation."_
 
+![Gemini_Generated_Image_qd6zvuqd6zvuqd6z](https://github.com/user-attachments/assets/b3661c1a-246e-4d8c-a4d2-2f4368ddc516)
