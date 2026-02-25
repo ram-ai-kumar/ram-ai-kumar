@@ -32,7 +32,7 @@
 
 ## 🔑 Pinned Open Source Work
 
-### 🧠 [AI-Driven Video to Learning Book PDF](https://github.com/ram-ai-kumar/langchain_video_transcription)
+### 🧠 [Agentic AI-Driven Video/Audio/Images (Screenshots/Slides/...) to Learning Book PDF](https://github.com/ram-ai-kumar/langchain_video_transcription)
 
 Privacy-safe, multi-modal agentic AI pipeline — zero 3rd-party data exposure by design. Whisper + Tesseract + LangChain + Ollama → publication-ready PDF. Private inference model validated in production: **$120K+ annual OpEx savings, 80% cost reduction**.
 `Python` `LangChain` `Ollama` `Whisper` `Tesseract` `Pandoc/XeLaTeX`
@@ -100,5 +100,7 @@ Peer-to-peer verified recycling transactions generating carbon credits, CSR comp
 
 ---
 
-*"Security is not a feature. It's the foundation."*
+![Gemini_Generated_Image_qd6zvuqd6zvuqd6z Medium](https://github.com/user-attachments/assets/1b73be2c-1b7f-4795-8115-db36c3f5b043)
+
+# "Security is not a feature. It's the foundation."
 
