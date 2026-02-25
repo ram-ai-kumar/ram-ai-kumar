@@ -1,10 +1,6 @@
 # Ram 'AI' Kumar &nbsp;·&nbsp; CISO · Founder · Builder
 
-> _AI isn't something I adopted — it's literally my middle name._
-
----
-
-## 🧭 Who I Am
+_AI isn't something I adopted — it's literally my middle name._
 
 30-year technology executive who builds **secure, AI-native platforms** from zero to production — and keeps them safe, compliant, and running at scale.
 
@@ -13,8 +9,6 @@
 - 🏗️ **Founder** — Building Recyclr, Secure-first AI-driven circular economy marketplace
 - 📜 **CISSP Candidate** — ISC2 #3370996 · Target April 2026
 - ⚡ **Ex-Cisco** — Zero-Trust AI NaaS Platform · 5M+ global networks · Fortune 500
-
----
 
 ## 🚀 Core Impact
 
@@ -28,9 +22,7 @@
 | 🚀 MVP delivery         | Under 4 hours                       |
 | 📋 Compliance delivered | ISO 27001 · SOC 2 · PCI-DSS · HIPAA |
 
----
-
-## 🔑 Pinned Open Source Work
+## Open Source Work
 
 ### 🧠 [Agentic AI-Driven Video/Audio/Images (Screenshots/Slides/...) to Learning Book PDF](https://github.com/ram-ai-kumar/langchain_video_transcription)
 
@@ -46,8 +38,6 @@ Zero-Trust, multi-tenant distributed document search engine. Tenant isolation at
 
 Security research — real-world web scraping attack vectors and defensive countermeasures. White-hat demonstration of threat surfaces in production SaaS environments.
 
----
-
 ## 🛡️ Security Philosophy
 
 ````
@@ -62,8 +52,6 @@ Zero-Dependency    → No supply chain surprises. Audited. Pinned. Scanned.
 Zero-Drift         → Infrastructure as code. Config is truth. Always.
 Zero-Admin         → No standing admin access. JIT. Audited. Expired.
 ````
-
----
 
 ## 🧰 Technology Stack
 
@@ -82,14 +70,10 @@ Zero-Admin         → No standing admin access. JIT. Audited. Expired.
 **Observability**
 `Prometheus` `Grafana` `Datadog` `ELK Stack` `Sentry` `OpenTelemetry`
 
----
-
 ## 🌱 Currently Building
 
 **Recyclr** — Secure-first AI-driven circular economy marketplace.
 Peer-to-peer verified recycling transactions generating carbon credits, CSR compliance, and CBAM-ready green credentials. Zero-Trust, data-sovereign architecture. DPDPA-compliant from day one.
-
----
 
 ## 📬 Let's Connect
 
