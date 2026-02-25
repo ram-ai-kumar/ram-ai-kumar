@@ -22,7 +22,7 @@ _AI isn't something I adopted — it's literally my middle name._
 | 🚀 MVP delivery         | Under 4 hours                       |
 | 📋 Compliance delivered | ISO 27001 · SOC 2 · PCI-DSS · HIPAA |
 
-## Open Source Work
+## 🔵 Open Source Work
 
 ### 🧠 [Agentic AI-Driven Video/Audio/Images (Screenshots/Slides/...) to Learning Book PDF](https://github.com/ram-ai-kumar/langchain_video_transcription)
 
