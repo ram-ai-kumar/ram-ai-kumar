@@ -34,6 +34,10 @@ Privacy-safe, multi-modal agentic AI pipeline — zero 3rd-party data exposure b
 Zero-Trust, multi-tenant distributed document search engine. Tenant isolation at API boundary · Redis rate limiting · Kafka/Karafka async indexing · Weaviate vector search (sub-500ms) · circuit breaker fallback · Kamal zero-downtime deployments. Mirrors production patterns proven at **5M+ TPM**.
 `Rails 8` `Weaviate` `Kafka` `Redis` `Sidekiq` `Docker`
 
+### ✧ [Privacy-First, Compliance-Ready AI-Driven Git Commit](https://github.com/ram-ai-kumar/aicommit)
+
+An intelligent, AI-powered CLI tool designed to streamline your Git workflow by automatically generating concise, meaningful, and descriptive commit messages based on your staged changes. Locally-executed, regulatory-aligned developer tooling that generates [Conventional Commits](https://www.conventionalcommits.org) messages using an on-device LLM via [Ollama](https://ollama.ai). Source code never crosses a trust boundary. No cloud APIs. No API keys. No data exfiltration surface. Full alignment with your organization's **security**, **privacy**, and **governance** posture.
+
 ### 🕷️ [Web Scraping Vulnerability](https://github.com/ram-ai-kumar/web_scraping_vulnerability)
 
 Security research — real-world web scraping attack vectors and defensive countermeasures. White-hat demonstration of threat surfaces in production SaaS environments.
