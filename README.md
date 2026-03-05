@@ -76,6 +76,8 @@ Zero-Admin         → No standing admin access. JIT. Audited. Expired.
 
 ## 🌱 Currently Building
 
+<img width="64" height="44" alt="image" src="https://github.com/user-attachments/assets/2102b9e0-ab0e-42b8-9edc-dfa73d9b6dab" />
+
 **Recyclr** — Secure-first AI-driven circular economy marketplace.
 Peer-to-peer verified recycling transactions generating carbon credits, CSR compliance, and CBAM-ready green credentials. Zero-Trust, data-sovereign architecture. DPDPA-compliant from day one.
 
