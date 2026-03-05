@@ -26,17 +26,17 @@ _AI isn't something I adopted — it's literally my middle name._
 
 ### 🧠 [Agentic AI-Driven Video/Audio/Images (Screenshots/Slides/...) to Learning Book PDF](https://github.com/ram-ai-kumar/langchain_video_transcription)
 
-Privacy-safe, multi-modal agentic AI pipeline — zero 3rd-party data exposure by design. Whisper + Tesseract + LangChain + Ollama → publication-ready PDF. Private inference model validated in production: **$120K+ annual OpEx savings, 80% cost reduction**.
+**Privacy-first**, multi-modal agentic AI pipeline — zero 3rd-party data exposure by design. Whisper + Tesseract + LangChain + Ollama → publication-ready PDF. Private inference model validated in production: **$120K+ annual OpEx savings, 80% cost reduction**.
 `Python` `LangChain` `Ollama` `Whisper` `Tesseract` `Pandoc/XeLaTeX`
 
 ### 📡 [Zero-Trust Multi-Tenant Distributed Document Search Engine](https://github.com/ram-ai-kumar/ddoc_search)
 
-Zero-Trust, multi-tenant distributed document search engine. Tenant isolation at API boundary · Redis rate limiting · Kafka/Karafka async indexing · Weaviate vector search (sub-500ms) · circuit breaker fallback · Kamal zero-downtime deployments. Mirrors production patterns proven at **5M+ TPM**.
+**Zero-Trust**, multi-tenant, **enterprise-ready**, **distributed** document search engine. Tenant **isolation at API boundary** · Redis **rate limiting** · Kafka/Karafka **async indexing** · Weaviate vector search (**sub-500ms**) · **circuit breaker** fallback · Kamal **zero-downtime** deployments. Mirrors production patterns proven at **5M+ TPM**.
 `Rails 8` `Weaviate` `Kafka` `Redis` `Sidekiq` `Docker`
 
 ### ✧ [Privacy-First, Compliance-Ready AI-Driven Git Tooling](https://github.com/ram-ai-kumar/aicommit)
 
-An intelligent, AI-powered CLI tool designed to streamline your Git workflow by automatically generating concise, meaningful, and descriptive commit messages based on your staged changes. Locally-executed, regulatory-aligned developer tooling that generates [Conventional Commits](https://www.conventionalcommits.org) messages using an on-device LLM via [Ollama](https://ollama.ai). Source code never crosses a trust boundary. No cloud APIs. No API keys. No data exfiltration surface. Full alignment with your organization's **security**, **privacy**, and **governance** posture.
+An intelligent, **AI-powered** CLI tool designed to streamline your Git workflow by automatically generating concise, meaningful, and descriptive commit messages based on your staged changes. Locally-executed, **regulatory-aligned** developer tooling that generates **Conventional Commit** messages using an on-device LLM via **Ollama**. Source code never crosses a trust boundary. No cloud APIs. No API keys. No data exfiltration surface. **100%** alignment with your organization's **security**, **privacy**, and **governance** posture.
 
 ### 🕷️ [Web Scraping Vulnerability](https://github.com/ram-ai-kumar/web_scraping_vulnerability)
 
