@@ -38,10 +38,6 @@ _AI isn't something I adopted — it's literally my middle name._
 
 An intelligent, **AI-powered** CLI tool designed to streamline your Git workflow by automatically generating concise, meaningful, and descriptive commit messages based on your staged changes. Locally-executed, **regulatory-aligned** developer tooling that generates **Conventional Commit** messages using an on-device LLM via **Ollama**. Source code never crosses a trust boundary. No cloud APIs. No API keys. No data exfiltration surface. **100%** alignment with your organization's **security**, **privacy**, and **governance** posture.
 
-### 🕷️ [Web Scraping Vulnerability](https://github.com/ram-ai-kumar/web_scraping_vulnerability)
-
-Security research — real-world web scraping attack vectors and defensive countermeasures. White-hat demonstration of threat surfaces in production SaaS environments.
-
 ## 🛡️ Security Philosophy
 
 ````
