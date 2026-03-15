@@ -26,7 +26,7 @@ _AI isn't something I adopted — it's literally my middle name._
 
 ### 🧠 [Agentic AI-Driven Video/Audio/Images (Screenshots/Slides/...) to Learning Book PDF](https://github.com/ram-ai-kumar/langchain_video_transcription)
 
-**Privacy-first**, multi-modal agentic AI pipeline — zero 3rd-party data exposure by design. Whisper + Tesseract + LangChain + Ollama → publication-ready PDF. Private inference model validated in production: **$120K+ annual OpEx savings, 80% cost reduction**.
+**Security-first** with OWASP Top 10 + OWASP Top 10 for LLM, multi-modal agentic AI pipeline — zero 3rd-party data exposure by design. Whisper + Tesseract + LangChain + Ollama → publication-ready PDF. Private inference model validated in production: **$120K+ annual OpEx savings, 80% cost reduction**.
 `Python` `LangChain` `Ollama` `Whisper` `Tesseract` `Pandoc/XeLaTeX`
 
 ### 📡 [Zero-Trust Multi-Tenant Distributed Document Search Engine](https://github.com/ram-ai-kumar/ddoc_search)
