@@ -34,7 +34,7 @@ _AI isn't something I adopted — it's literally my middle name._
 **Zero-Trust**, multi-tenant, **enterprise-ready**, **distributed** document search engine. Tenant **isolation at API boundary** · Redis **rate limiting** · Kafka/Karafka **async indexing** · Weaviate vector search (**sub-500ms**) · **circuit breaker** fallback · Kamal **zero-downtime** deployments. Mirrors production patterns proven at **5M+ TPM**.
 `Rails 8` `Weaviate` `Kafka` `Redis` `Sidekiq` `Docker`
 
-### ✧ [Privacy-First, Compliance-Ready AI-Driven Git Tooling](https://github.com/ram-ai-kumar/aicommit)
+### ✧ [Privacy-First, Compliance-Ready AI-Driven Git Tooling](https://github.com/ram-ai-kumar/aicommit_air_gapped)
 
 An intelligent, **AI-powered** CLI tool designed to streamline your Git workflow by automatically generating concise, meaningful, and descriptive commit messages based on your staged changes. Locally-executed, **regulatory-aligned** developer tooling that generates **Conventional Commit** messages using an on-device LLM via **Ollama**. Source code never crosses a trust boundary. No cloud APIs. No API keys. No data exfiltration surface. **100%** alignment with your organization's **security**, **privacy**, and **governance** posture.
 
