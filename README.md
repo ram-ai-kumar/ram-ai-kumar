@@ -38,6 +38,20 @@ _AI isn't something I adopted — it's literally my middle name._
 
 An intelligent, **AI-powered** CLI tool designed to streamline your Git workflow by automatically generating concise, meaningful, and descriptive commit messages based on your staged changes. Locally-executed, **regulatory-aligned** developer tooling that generates **Conventional Commit** messages using an on-device LLM via **Ollama**. Source code never crosses a trust boundary. No cloud APIs. No API keys. No data exfiltration surface. **100%** alignment with your organization's **security**, **privacy**, and **governance** posture.
 
+### 🚀 [goURL: The Smart CLI for Project URL Management](https://github.com/ram-ai-kumar/gourl)
+
+gourl is a high-performance, local-first CLI utility designed to streamline how developers manage and access project-specific URLs across multiple environments.
+
+- 🚀 Smart Environment Routing: Instantiate browser sessions for production, staging, or dev with simple, one-word commands.
+- 🔗 Intuitive Aliases: Built-in shorthand like p, stg, and local to maximize developer velocity.
+- 📂 Local-First Configuration: Metadata is stored projects-relative in .cache/gourls.json, ensuring complete privacy and environment isolation.
+- 💻 True Cross-Platform: Native support for macOS, Windows (CMD/PowerShell), and Linux (including WSL detection).
+- 🛠️ Self-Assisted Setup: Intelligent prompts that guide you through configuration and .gitignore best practices.
+- 🛡️ Governance & Security Ready:
+  - Zero-Dependency Architecture: Built exclusively with the Go Standard Library for a minimal attack surface.
+  - Zero-Network Trust: No data ever leaves your local machine; zero telemetry.
+  - Robust Installer: Modern install script with automatic source build fallback for any architecture.
+
 ## 🛡️ Security Philosophy
 
 ````
