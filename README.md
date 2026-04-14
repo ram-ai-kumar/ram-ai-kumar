@@ -1,4 +1,4 @@
-# Ram 'AI' Kumar &nbsp;·&nbsp; CISO · Founder · Builder
+# Ram 'AI' Kumar &nbsp;·&nbsp; CISO · Security-First AI-SaaS & GRC Leader
 
 _AI isn't something I adopted — it's literally my middle name._
 
