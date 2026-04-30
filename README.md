@@ -1,4 +1,7 @@
-# Ram Kumar &nbsp;·&nbsp; CISO · Security-First AI-SaaS & GRC Leader
+# Ram "AI" Kumar &nbsp;·&nbsp; CISO · Security-First AI-SaaS & GRC Leader
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ram--ai--kumar-5B9BD5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ram-ai-kumar)
+[![Email](https://img.shields.io/badge/Email-ram@zerotosaas.in-E8823A?style=flat&logo=gmail&logoColor=white)](mailto:ram@zerotosaas.in)
+[![ISC2 CISSP](https://img.shields.io/badge/ISC2-CISSP%20Candidate%20%233370996-00828F?style=flat&logoColor=white)](https://www.credly.com/badges/862e6f18-3ba0-4a05-89ce-e12a0cb71288)
 
 _AI isn't something I adopted — it's literally my middle name._
 
@@ -8,10 +11,6 @@ _AI isn't something I adopted — it's literally my middle name._
 - 🤖 **AI-native builder** — Agentic pipelines, RAG, private LLM inference, MLOps governance
 - 📜 **CISSP Candidate** — ISC2 #3370996
 - ⚡ **Ex-Cisco** — Zero-Trust AI NaaS Platform · 5M+ global networks · Fortune 500
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ram--ai--kumar-5B9BD5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ram-ai-kumar)
-[![Email](https://img.shields.io/badge/Email-ram@zerotosaas.in-E8823A?style=flat&logo=gmail&logoColor=white)](mailto:ram@zerotosaas.in)
-[![ISC2 CISSP](https://img.shields.io/badge/ISC2-CISSP%20Candidate%20%233370996-00828F?style=flat&logoColor=white)](https://www.credly.com/badges/862e6f18-3ba0-4a05-89ce-e12a0cb71288)
 
 ---
 
