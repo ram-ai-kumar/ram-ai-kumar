@@ -85,6 +85,8 @@ Zero-Admin         → No standing admin access. JIT. Audited. Expired.
 
 ---
 
-_"Security is not a feature. It's the foundation."_
+# "Security is not a feature. It's the foundation."
 
-![Gemini_Generated_Image_qd6zvuqd6zvuqd6z](https://github.com/user-attachments/assets/b3661c1a-246e-4d8c-a4d2-2f4368ddc516)
+<img width="512" height="594" alt="Security is not a feature, its the foundation" src="https://github.com/user-attachments/assets/d70d9330-95c1-4927-b986-b9753a26e83b" />
+
+
