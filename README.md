@@ -9,6 +9,16 @@ _AI isn't something I adopted — it's literally my middle name._
 - 📜 **CISSP Candidate** — ISC2 #3370996
 - ⚡ **Ex-Cisco** — Zero-Trust AI NaaS Platform · 5M+ global networks · Fortune 500
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ram--ai--kumar-5B9BD5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ram-ai-kumar)
+[![Email](https://img.shields.io/badge/Email-ram@zerotosaas.in-E8823A?style=flat&logo=gmail&logoColor=white)](mailto:ram@zerotosaas.in)
+[![ISC2 CISSP](https://img.shields.io/badge/ISC2-CISSP%20Candidate%20%233370996-00828F?style=flat&logoColor=white)](https://www.credly.com/badges/862e6f18-3ba0-4a05-89ce-e12a0cb71288)
+
+---
+
+## "Security is not a feature. It's the foundation."
+
+<img width="2752" height="1536" alt="Security is not a feature, its the foundation" src="https://github.com/user-attachments/assets/52e52a9d-c487-471b-a51b-499a744b0ce2" />
+
 ## 🚀 Core Impact
 
 | Metric                  | Achievement                         |
@@ -76,18 +86,6 @@ Zero-Admin         → No standing admin access. JIT. Audited. Expired.
 
 **Observability**
 `Prometheus` `Grafana` `Datadog` `ELK Stack` `Sentry` `OpenTelemetry`
-
-## 📬 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ram--ai--kumar-5B9BD5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ram-ai-kumar)
-[![Email](https://img.shields.io/badge/Email-ram@zerotosaas.in-E8823A?style=flat&logo=gmail&logoColor=white)](mailto:ram@zerotosaas.in)
-[![ISC2 CISSP](https://img.shields.io/badge/ISC2-CISSP%20Candidate%20%233370996-00828F?style=flat&logoColor=white)](https://www.credly.com/badges/862e6f18-3ba0-4a05-89ce-e12a0cb71288)
-
----
-
-# "Security is not a feature. It's the foundation."
-
-<img width="2752" height="1536" alt="Security is not a feature, its the foundation" src="https://github.com/user-attachments/assets/52e52a9d-c487-471b-a51b-499a744b0ce2" />
 
 
 
