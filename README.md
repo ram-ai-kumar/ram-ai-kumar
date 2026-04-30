@@ -6,7 +6,6 @@ _AI isn't something I adopted — it's literally my middle name._
 
 - 🔐 **Security-first by design** — Zero-Trust architecture, HIPAA · GDPR · ISO 27001 · DPDPA · SOC 2
 - 🤖 **AI-native builder** — Agentic pipelines, RAG, private LLM inference, MLOps governance
-- 🏗️ **Founder** — Building Recyclr, Secure-first AI-driven circular economy marketplace
 - 📜 **CISSP Candidate** — ISC2 #3370996 · Target April 2026
 - ⚡ **Ex-Cisco** — Zero-Trust AI NaaS Platform · 5M+ global networks · Fortune 500
 
@@ -81,9 +80,8 @@ Zero-Admin         → No standing admin access. JIT. Audited. Expired.
 ## 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ram--ai--kumar-5B9BD5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ram-ai-kumar)
-[![Email](https://img.shields.io/badge/Email-ram@recyclr.in-E8823A?style=flat&logo=gmail&logoColor=white)](mailto:ram@recyclr.in)
+[![Email](https://img.shields.io/badge/Email-ram@zerotosaas.in-E8823A?style=flat&logo=gmail&logoColor=white)](mailto:ram@zerotosaas.in)
 [![ISC2 CISSP](https://img.shields.io/badge/ISC2-CISSP%20Candidate%20%233370996-00828F?style=flat&logoColor=white)](https://www.credly.com/badges/862e6f18-3ba0-4a05-89ce-e12a0cb71288)
-![Recyclr](https://img.shields.io/badge/Founder-Recyclr.in-4E9A51?style=flat&logoColor=white)
 
 ---
 
