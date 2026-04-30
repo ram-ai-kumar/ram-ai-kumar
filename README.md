@@ -18,18 +18,6 @@ _AI isn't something I adopted — it's literally my middle name._
 
 <img width="2752" height="1536" alt="Security is not a feature, its the foundation" src="https://github.com/user-attachments/assets/52e52a9d-c487-471b-a51b-499a744b0ce2" />
 
-## 🚀 Core Impact
-
-| Metric                  | Achievement                         |
-| ----------------------- | ----------------------------------- |
-| 🏢 SaaS platforms built | 7 from zero → $1M+ ARR              |
-| 🛡️ Incident reduction   | 80% via Zero-Trust + IR programme   |
-| 💰 OpEx saved           | $120K+/yr via private LLM strategy  |
-| ⚡ Search performance   | Sub-500ms on billions of vectors    |
-| 👥 Teams scaled         | 0 → 150+ engineers                  |
-| 🚀 MVP delivery         | Under 4 hours                       |
-| 📋 Compliance delivered | ISO 27001 · SOC 2 · PCI-DSS · HIPAA |
-
 ## Open Source Work
 
 ### 🧠 [Agentic AI-Driven Video/Audio/Images (Screenshots/Slides/...) to Learning Book PDF](https://github.com/ram-ai-kumar/langchain_video_transcription)
@@ -68,6 +56,8 @@ Zero-Dependency    → No supply chain surprises. Audited. Pinned. Scanned.
 Zero-Drift         → Infrastructure as code. Config is truth. Always.
 Zero-Admin         → No standing admin access. JIT. Audited. Expired.
 ````
+
+<img width="768" height="461" alt="Ram Kumar - Value delivered" src="https://github.com/user-attachments/assets/303fd008-b982-463a-aed9-75d544c70f20" />
 
 ## 🧰 Technology Stack
 
