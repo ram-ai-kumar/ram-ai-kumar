@@ -6,7 +6,7 @@ _AI isn't something I adopted — it's literally my middle name._
 
 - 🔐 **Security-first by design** — Zero-Trust architecture, HIPAA · GDPR · ISO 27001 · DPDPA · SOC 2
 - 🤖 **AI-native builder** — Agentic pipelines, RAG, private LLM inference, MLOps governance
-- 📜 **CISSP Candidate** — ISC2 #3370996 · Target June 2026
+- 📜 **CISSP Candidate** — ISC2 #3370996
 - ⚡ **Ex-Cisco** — Zero-Trust AI NaaS Platform · 5M+ global networks · Fortune 500
 
 ## 🚀 Core Impact
