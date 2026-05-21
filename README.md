@@ -3,6 +3,13 @@
 [![Email](https://img.shields.io/badge/Email-ram@zerotosaas.in-E8823A?style=flat&logo=gmail&logoColor=white)](mailto:ram@zerotosaas.in)
 [![ISC2 CISSP](https://img.shields.io/badge/ISC2-CISSP%20Candidate%20%233370996-00828F?style=flat&logoColor=white)](https://www.credly.com/badges/862e6f18-3ba0-4a05-89ce-e12a0cb71288)
 
+<img width="64" height="64" alt="Screenshot 2026-05-21 at 8 38 30 PM" src="https://github.com/user-attachments/assets/1dadfd33-c60d-464e-a2af-40f6a4bdbccf" />
+<img width="64" height="64" alt="Screenshot 2026-05-21 at 8 38 24 PM" src="https://github.com/user-attachments/assets/e84cc6b6-3795-4e3e-a9eb-417c3a99df52" />
+<img width="64" height="64" alt="Screenshot 2026-05-21 at 8 36 54 PM" src="https://github.com/user-attachments/assets/18a54a22-4d7f-45a5-9825-3fe910fb57ff" />
+<img width="64" height="64" alt="Screenshot 2026-05-21 at 8 38 05 PM" src="https://github.com/user-attachments/assets/8a636118-5b1d-4c8a-9725-874493b9e3ec" />
+<img width="64" height="64" alt="Screenshot 2026-05-21 at 8 38 17 PM" src="https://github.com/user-attachments/assets/12aeb994-f391-44fa-b798-ee2e2ca00f94" />
+
+
 _AI isn't something I adopted — it's literally my middle name._
 
 30-year technology executive who builds **secure, AI-native platforms** from zero to production — and keeps them safe, compliant, and running at scale.
