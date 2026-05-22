@@ -27,6 +27,10 @@ _AI isn't something I adopted — it's literally my middle name._
 
 ## Open Source Work
 
+### 🤝 [Risk-Identification-Policy-Enforcement (RIPE) Framework](https://github.com/ram-ai-kumar/risk-identification-policy-enforcement)
+
+The RIPE framework is a security-first, Zero Trust Architecture (ZTA) system designed to monitor, evaluate, and govern autonomous AI Agents, Large Language Model (LLM) integrations, and automated workloads. Because agent telemetry in enterprise networks is fragmented, out-of-order, and incomplete, RIPE ingests raw signals from multiple sources, standardizes them, correlates them into unified agent records, detects risk patterns, scores the composite risk, and recommends trace-linked mitigation policies.
+
 ### 🧠 [Agentic AI-Driven Video/Audio/Images (Screenshots/Slides/...) to Learning Book PDF](https://github.com/ram-ai-kumar/langchain_video_transcription)
 
 **Security-first** with OWASP Top 10 + OWASP Top 10 for LLM, multi-modal agentic AI pipeline — zero 3rd-party data exposure by design. Whisper + Tesseract + LangChain + Ollama → publication-ready PDF. Private inference model validated in production: **$120K+ annual OpEx savings, 80% cost reduction**.
