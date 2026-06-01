@@ -1,4 +1,11 @@
-# Ram "AI" Kumar &nbsp;·&nbsp; CISO · Security-First AI-SaaS & GRC Leader
+# Ram "AI" Kumar
+
+Future-Focused, Action-Driven, Ex-Cisco, CISO, CTO, VP, Director
+
+30+ years * 7+ SaaS platforms * CISSP ISC2 Candidate
+
+## Digital Security, Data Privacy, Artificial Intelligence, Governance, Risk, Compliance (GRC)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ram--ai--kumar-5B9BD5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ram-ai-kumar)
 [![Email](https://img.shields.io/badge/Email-ram@zerotosaas.in-E8823A?style=flat&logo=gmail&logoColor=white)](mailto:ram@zerotosaas.in)
 [![ISC2 CISSP](https://img.shields.io/badge/ISC2-CISSP%20Candidate%20%233370996-00828F?style=flat&logoColor=white)](https://www.credly.com/badges/862e6f18-3ba0-4a05-89ce-e12a0cb71288)
@@ -10,7 +17,7 @@
 <img width="64" height="64" alt="Screenshot 2026-05-21 at 8 38 17 PM" src="https://github.com/user-attachments/assets/12aeb994-f391-44fa-b798-ee2e2ca00f94" />
 
 
-_AI isn't something I adopted — it's literally my middle name._
+_AI isn't something I adopted — it's practically in my name. I'm the "RAM" that powers the "AI"._
 
 30-year technology executive who builds **secure, AI-native platforms** from zero to production — and keeps them safe, compliant, and running at scale.
 
