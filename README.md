@@ -1,4 +1,4 @@
-# Hi! I'm "RAM" that powers the "AI"
+# Hi! I'm "RAM" that powers the "AI" for you.
 
 Future-Focused, Action-Driven, Ex-Cisco, CISO, CTO, VP, Director
 
