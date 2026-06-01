@@ -1,4 +1,4 @@
-# Ram "AI" Kumar
+# Hi! I'm "RAM" that powers the "AI"
 
 Future-Focused, Action-Driven, Ex-Cisco, CISO, CTO, VP, Director
 
