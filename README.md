@@ -36,7 +36,7 @@ _AI isn't something I adopted — it's practically in my name. I'm the "RAM" tha
 
 ### 🤝 [Risk-Identification-Policy-Enforcement (RIPE) Framework](https://github.com/ram-ai-kumar/risk-identification-policy-enforcement)
 
-The RIPE framework is a security-first, Zero Trust Architecture (ZTA) system designed to monitor, evaluate, and govern autonomous AI Agents, Large Language Model (LLM) integrations, and automated workloads. Because agent telemetry in enterprise networks is fragmented, out-of-order, and incomplete, RIPE ingests raw signals from multiple sources, standardizes them, correlates them into unified agent records, detects risk patterns, scores the composite risk, and recommends trace-linked mitigation policies.
+RIPE framework is a security-first, ZTA for governing autonomous AI agents and LLMs. Addressing fragmented enterprise telemetry, it standardizes raw signals into unified records to detect risk patterns, score composite risk, and recommend trace-linked mitigation policies. DPDPA, GDPR, HIPAA, NIST 800-53, PCI-DSS, SOC2 ready.
 
 ### 🧠 [Agentic AI-Driven Video/Audio/Images (Screenshots/Slides/...) to Learning Book PDF](https://github.com/ram-ai-kumar/langchain_video_transcription)
 
