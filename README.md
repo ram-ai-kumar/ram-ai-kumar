@@ -2,7 +2,7 @@
 
 Future-Focused, Action-Driven, Ex-Cisco, CISO, CTO, VP, Director
 
-30+ years * 7+ SaaS platforms * CISSP ISC2 Candidate
+29+ years * 8+ SaaS platforms * CISSP ISC2 Candidate
 
 ## Digital Security, Data Privacy, Artificial Intelligence, Governance, Risk, Compliance (GRC)
 
