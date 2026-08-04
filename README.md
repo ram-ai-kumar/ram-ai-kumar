@@ -1,5 +1,3 @@
-# Hi! I'm "RAM" to power the "AI" for you.
-
 Future-Focused, Action-Driven, Ex-Cisco, CISO, CTO, VP, Director
 
 29+ years * 8+ SaaS platforms * CISSP ISC2 Candidate
@@ -19,7 +17,7 @@ Future-Focused, Action-Driven, Ex-Cisco, CISO, CTO, VP, Director
 
 _AI isn't something I adopted — it's practically in my name. I'm the "RAM" that powers the "AI"._
 
-30-year technology executive who builds **secure, AI-native platforms** from zero to production — and keeps them safe, compliant, and running at scale.
+29+ years technology executive building **secure, AI-native platforms** from zero to production.
 
 - 🔐 **Security-first by design** — Zero-Trust architecture, HIPAA · GDPR · ISO 27001 · DPDPA · SOC 2
 - 🤖 **AI-native builder** — Agentic pipelines, RAG, private LLM inference, MLOps governance
