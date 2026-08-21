@@ -32,6 +32,12 @@ _AI isn't something I adopted — it's practically in my name. I'm the "RAM" tha
 
 ## Open Source Work
 
+### [ZeroToSaaS Accessible Light Theme Suite](https://github.com/ram-ai-kumar/ZeroToSaaS-Themes)
+
+An enterprise-grade suite of 10 medically optimized, mathematically verified accessible Light Themes for Visual Studio Code, Cursor, Windsurf, VSCodium, and OpenVSX.
+
+Featuring an active Semantic Cognitive Status System (Safe 🟢 → Caution 🟡 → Warning 🟠 → Panic 🔴), a built-in Accessible Error Lens, Universal Alternating Indent Shading, and Contextual File Adaptation across 19+ programming languages, configurations, and documentation formats.
+
 ### 🤝 Risk-Identification-Policy-Enforcement (RIPE) Framework
 
 _(Moved to `Private` state)_
