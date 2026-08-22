@@ -32,7 +32,7 @@ _AI isn't something I adopted — it's practically in my name. I'm the "RAM" tha
 
 ## Open Source Work
 
-### [ZeroToSaaS Accessibility Theme Suite](https://github.com/zerotosaas-in/zerotosaas-accessibility-theme-suite)
+### [ZeroToSaaS Accessibility Theme Suite](https://zerotosaas-in.github.io/zerotosaas-accessibility-theme-suite/)
 
 An enterprise-grade suite of 10 medically optimized, mathematically verified accessible Themes for IDEs, Visual systems and SaaS platforms. Bridging three critical engineering pillars: Human Health & Ocular Physiology, Universal Accessibility & Inclusion and Digital Security & Privacy Compliance.
 
